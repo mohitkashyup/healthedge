@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="705.766" height="109" viewBox="0 0 705.766 109">
+  <defs>
+    <filter id="rek-shape" x="0" y="0" width="705.766" height="109" filterUnits="userSpaceOnUse">
+      <feOffset dx="30" dy="12" input="SourceAlpha"/>
+      <feGaussianBlur result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#rek-shape)">
+    <path id="rek-shape-2" data-name="rek-shape" d="M-76,0H503.113c17.793,0,87.525,70.333,96.653,97H17.431C-.362,97-76,22.091-76,0Z" transform="translate(76)" fill="#e8e4e4"/>
+  </g>
+</svg>
